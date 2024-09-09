@@ -1,2 +1,2 @@
 # Data-Analytics
-This is where my Python Project for Data Analytics is.
+This is where my projects for the Coursera IBM Data Analytics certification are.
